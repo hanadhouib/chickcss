@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 h1 {
 	color: red;
 	font-family: roboto;
@@ -68,3 +69,17 @@ p {
   image {
     display: inline;
   }
+  li {
+    display: inline;
+   
+  }
+  a{
+    text-decoration: none;
+  }
+  li {
+    margin: 20px 20px 20px 20px;
+  }
+  p:hover{
+background-color: blue;
+  }
+ 
